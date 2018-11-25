@@ -525,6 +525,7 @@ input[type="checkbox"]:checked + label:before {
     }
 
     .action-input {
+        width: 70%;
         padding: 0;
         margin: 20px 0;
         text-align: center;
@@ -540,9 +541,6 @@ input[type="checkbox"]:checked + label:before {
         width: auto;
     }
 
-    .action-input {
-        padding: 0;
-    }
 
     /* Info */
     .info-container {
